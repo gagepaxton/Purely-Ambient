@@ -4,6 +4,3 @@
 
 [node name="AudioSource" type="Node3D"]
 script = ExtResource("1_c1kio")
-inside_ambience = null
-inside_volume_lerp_speed = null
-trigger_box_size = null
